@@ -1,0 +1,28 @@
+header {
+  background: black;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+header p {
+  display: flex;
+  font-size: 1rem;
+}
+header span {
+  margin-left: 10%;
+}
+header img {
+  width: 10%;
+  height: 10%;
+  margin-left: 30%;
+}
+header p {
+  color: red;
+  /* margin-left: 2%; */
+}
+.icon-wode {
+  color: yellowgreen;
+  margin-left: 18%;
+  font-size: 20px;
+}
